@@ -1,0 +1,9 @@
+# Generated output: tables, figures, logs and datasets are written outside the package
+*.dta
+*.log
+*.smcl
+*.gph
+__pycache__/
+.DS_Store
+figures/appendix_D/*.pdf
+figures/appendix_D/plotted_values.csv
