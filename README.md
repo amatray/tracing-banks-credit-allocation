@@ -1,6 +1,6 @@
 # Replication package: "Tracing Banks' Credit Allocation to their Profits"
 
-Anne Duquerroy, Adrien Matray, Farzad Saidi. *Review of Finance*.
+Anne Duquerroy, Adrien Matray, Farzad Saidi, Chloé Zapha. *Review of Finance*.
 
 The code is released under the MIT License (see `LICENSE`).
 
